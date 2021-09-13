@@ -1,0 +1,540 @@
+iso_code,continent,location,date,new_cases_smoothed_per_million,new_deaths_smoothed_per_million
+BGD,Asia,Bangladesh,2020-03-03,NA,NA
+BGD,Asia,Bangladesh,2020-03-09,NA,NA
+BGD,Asia,Bangladesh,2020-03-15,0.002,0
+BGD,Asia,Bangladesh,2020-03-21,0.019,0.002
+BGD,Asia,Bangladesh,2020-03-27,0.024,0.003
+BGD,Asia,Bangladesh,2020-04-02,0.01,0.001
+BGD,Asia,Bangladesh,2020-04-08,0.142,0.012
+BGD,Asia,Bangladesh,2020-04-14,0.736,0.025
+BGD,Asia,Bangladesh,2020-04-20,1.861,0.054
+BGD,Asia,Bangladesh,2020-04-26,2.568,0.047
+BGD,Asia,Bangladesh,2020-05-02,3.289,0.03
+BGD,Asia,Bangladesh,2020-05-08,4.247,0.031
+BGD,Asia,Bangladesh,2020-05-14,5.585,0.073
+BGD,Asia,Bangladesh,2020-05-20,7.734,0.101
+BGD,Asia,Bangladesh,2020-05-26,10.088,0.132
+BGD,Asia,Bangladesh,2020-06-01,12.1,0.148
+BGD,Asia,Bangladesh,2020-06-07,16.148,0.206
+BGD,Asia,Bangladesh,2020-06-13,18.522,0.254
+BGD,Asia,Bangladesh,2020-06-19,20.829,0.254
+BGD,Asia,Bangladesh,2020-06-25,21.091,0.241
+BGD,Asia,Bangladesh,2020-07-01,23.072,0.265
+BGD,Asia,Bangladesh,2020-07-07,20.092,0.264
+BGD,Asia,Bangladesh,2020-07-13,18.456,0.256
+BGD,Asia,Bangladesh,2020-07-19,17.982,0.231
+BGD,Asia,Bangladesh,2020-07-25,16.578,0.254
+BGD,Asia,Bangladesh,2020-07-31,16.484,0.239
+BGD,Asia,Bangladesh,2020-08-06,12.805,0.193
+BGD,Asia,Bangladesh,2020-08-12,17.196,0.213
+BGD,Asia,Bangladesh,2020-08-18,16.343,0.233
+BGD,Asia,Bangladesh,2020-08-24,15.561,0.251
+BGD,Asia,Bangladesh,2020-08-30,14.073,0.266
+BGD,Asia,Bangladesh,2020-09-05,12.699,0.209
+BGD,Asia,Bangladesh,2020-09-11,11.404,0.222
+BGD,Asia,Bangladesh,2020-09-17,9.797,0.195
+BGD,Asia,Bangladesh,2020-09-23,9.692,0.192
+BGD,Asia,Bangladesh,2020-09-29,8.557,0.184
+BGD,Asia,Bangladesh,2020-10-05,8.307,0.158
+BGD,Asia,Bangladesh,2020-10-11,8.307,0.153
+BGD,Asia,Bangladesh,2020-10-17,8.867,0.127
+BGD,Asia,Bangladesh,2020-10-23,8.958,0.12
+BGD,Asia,Bangladesh,2020-10-29,8.616,0.121
+BGD,Asia,Bangladesh,2020-11-04,9.616,0.124
+BGD,Asia,Bangladesh,2020-11-10,9.518,0.108
+BGD,Asia,Bangladesh,2020-11-16,10.887,0.107
+BGD,Asia,Bangladesh,2020-11-22,13.018,0.168
+BGD,Asia,Bangladesh,2020-11-28,13.305,0.2
+BGD,Asia,Bangladesh,2020-12-04,13.254,0.198
+BGD,Asia,Bangladesh,2020-12-10,12.34,0.19
+BGD,Asia,Bangladesh,2020-12-16,10.181,0.196
+BGD,Asia,Bangladesh,2020-12-22,8.06,0.173
+BGD,Asia,Bangladesh,2020-12-28,6.85,0.145
+BGD,Asia,Bangladesh,2021-01-03,5.96,0.151
+BGD,Asia,Bangladesh,2021-01-09,5.376,0.136
+BGD,Asia,Bangladesh,2021-01-15,5.027,0.111
+BGD,Asia,Bangladesh,2021-01-21,3.945,0.101
+BGD,Asia,Bangladesh,2021-01-27,3.259,0.106
+BGD,Asia,Bangladesh,2021-02-02,2.768,0.082
+BGD,Asia,Bangladesh,2021-02-08,2.425,0.073
+BGD,Asia,Bangladesh,2021-02-14,2.195,0.06
+BGD,Asia,Bangladesh,2021-02-20,2.392,0.066
+BGD,Asia,Bangladesh,2021-02-26,2.385,0.05
+BGD,Asia,Bangladesh,2021-03-04,3.118,0.044
+BGD,Asia,Bangladesh,2021-03-10,4.489,0.059
+BGD,Asia,Bangladesh,2021-03-16,7.633,0.094
+BGD,Asia,Bangladesh,2021-03-22,12.594,0.129
+BGD,Asia,Bangladesh,2021-03-28,21.544,0.186
+BGD,Asia,Bangladesh,2021-04-03,33.371,0.298
+BGD,Asia,Bangladesh,2021-04-09,42.504,0.372
+BGD,Asia,Bangladesh,2021-04-15,35.764,0.486
+BGD,Asia,Bangladesh,2021-04-21,25.06,0.604
+BGD,Asia,Bangladesh,2021-04-27,20.713,0.555
+BGD,Asia,Bangladesh,2021-05-03,13.058,0.429
+BGD,Asia,Bangladesh,2021-05-09,10.036,0.308
+BGD,Asia,Bangladesh,2021-05-15,6.652,0.213
+BGD,Asia,Bangladesh,2021-05-21,6.213,0.18
+BGD,Asia,Bangladesh,2021-05-27,8.493,0.17
+BGD,Asia,Bangladesh,2021-06-02,9.195,0.205
+BGD,Asia,Bangladesh,2021-06-08,11.257,0.219
+BGD,Asia,Bangladesh,2021-06-14,14.757,0.263
+BGD,Asia,Bangladesh,2021-06-20,21.466,0.373
+BGD,Asia,Bangladesh,2021-06-26,30.456,0.509
+BGD,Asia,Bangladesh,2021-07-02,44.446,0.696
+BGD,Asia,Bangladesh,2021-07-08,58.691,0.994
+BGD,Asia,Bangladesh,2021-07-14,71.104,1.266
+BGD,Asia,Bangladesh,2021-07-20,70.899,1.286
+BGD,Asia,Bangladesh,2021-07-26,54.229,1.211
+BRA,South America,Brazil,2020-03-01,NA,NA
+BRA,South America,Brazil,2020-03-07,0.007,0
+BRA,South America,Brazil,2020-03-13,0.093,0
+BRA,South America,Brazil,2020-03-19,0.382,0.004
+BRA,South America,Brazil,2020-03-25,1.466,0.038
+BRA,South America,Brazil,2020-03-31,2.332,0.104
+BRA,South America,Brazil,2020-04-06,5.096,0.272
+BRA,South America,Brazil,2020-04-12,7.435,0.495
+BRA,South America,Brazil,2020-04-18,10.707,0.827
+BRA,South America,Brazil,2020-04-24,13.684,1.05
+BRA,South America,Brazil,2020-04-30,24.968,1.798
+BRA,South America,Brazil,2020-05-06,31.538,2.067
+BRA,South America,Brazil,2020-05-12,42.179,3.04
+BRA,South America,Brazil,2020-05-18,57.647,3.495
+BRA,South America,Brazil,2020-05-24,82.082,4.401
+BRA,South America,Brazil,2020-05-30,101.512,4.584
+BRA,South America,Brazil,2020-06-05,121.381,4.804
+BRA,South America,Brazil,2020-06-11,126.275,4.636
+BRA,South America,Brazil,2020-06-17,122.965,4.59
+BRA,South America,Brazil,2020-06-23,149.684,4.976
+BRA,South America,Brazil,2020-06-29,175.9,4.733
+BRA,South America,Brazil,2020-07-05,174.01,4.869
+BRA,South America,Brazil,2020-07-11,176.654,4.842
+BRA,South America,Brazil,2020-07-17,164.997,5.009
+BRA,South America,Brazil,2020-07-23,185.04,4.969
+BRA,South America,Brazil,2020-07-29,218.259,4.949
+BRA,South America,Brazil,2020-08-04,214.212,4.893
+BRA,South America,Brazil,2020-08-10,206.431,4.763
+BRA,South America,Brazil,2020-08-16,204.833,4.572
+BRA,South America,Brazil,2020-08-22,178.28,4.717
+BRA,South America,Brazil,2020-08-28,183.124,4.131
+BRA,South America,Brazil,2020-09-03,188.349,4.009
+BRA,South America,Brazil,2020-09-09,134.432,3.198
+BRA,South America,Brazil,2020-09-15,147.986,3.801
+BRA,South America,Brazil,2020-09-21,142.77,3.539
+BRA,South America,Brazil,2020-09-27,126.136,3.257
+BRA,South America,Brazil,2020-10-03,126.917,3.079
+BRA,South America,Brazil,2020-10-09,140.328,3.333
+BRA,South America,Brazil,2020-10-15,94.724,2.354
+BRA,South America,Brazil,2020-10-21,106.128,2.457
+BRA,South America,Brazil,2020-10-27,111.355,2.089
+BRA,South America,Brazil,2020-11-02,97.016,1.919
+BRA,South America,Brazil,2020-11-08,79.581,1.561
+BRA,South America,Brazil,2020-11-14,131.323,2.278
+BRA,South America,Brazil,2020-11-20,140.809,2.605
+BRA,South America,Brazil,2020-11-26,149.506,2.284
+BRA,South America,Brazil,2020-12-02,181.491,2.518
+BRA,South America,Brazil,2020-12-08,193.702,2.918
+BRA,South America,Brazil,2020-12-14,203.798,3.036
+BRA,South America,Brazil,2020-12-20,226.255,3.604
+BRA,South America,Brazil,2020-12-26,169.802,2.983
+BRA,South America,Brazil,2021-01-01,169.377,3.309
+BRA,South America,Brazil,2021-01-07,192.014,3.729
+BRA,South America,Brazil,2021-01-13,257.209,4.698
+BRA,South America,Brazil,2021-01-19,254.199,4.571
+BRA,South America,Brazil,2021-01-25,241.696,4.95
+BRA,South America,Brazil,2021-01-31,242.053,5.018
+BRA,South America,Brazil,2021-02-06,181.59,4.092
+BRA,South America,Brazil,2021-02-12,213.917,5.01
+BRA,South America,Brazil,2021-02-18,212.859,4.877
+BRA,South America,Brazil,2021-02-24,232.349,5.287
+BRA,South America,Brazil,2021-03-02,261.474,5.936
+BRA,South America,Brazil,2021-03-08,312.292,7.176
+BRA,South America,Brazil,2021-03-14,311.863,8.615
+BRA,South America,Brazil,2021-03-20,343.367,10.518
+BRA,South America,Brazil,2021-03-26,358.235,11.29
+BRA,South America,Brazil,2021-04-01,349.264,14.666
+BRA,South America,Brazil,2021-04-07,298.712,12.945
+BRA,South America,Brazil,2021-04-13,335.647,14.435
+BRA,South America,Brazil,2021-04-19,306.393,13.485
+BRA,South America,Brazil,2021-04-25,267.297,11.736
+BRA,South America,Brazil,2021-05-01,280.769,11.388
+BRA,South America,Brazil,2021-05-07,284.585,10.305
+BRA,South America,Brazil,2021-05-13,289.281,9.052
+BRA,South America,Brazil,2021-05-19,304.223,9.179
+BRA,South America,Brazil,2021-05-25,310.08,8.724
+BRA,South America,Brazil,2021-05-31,285.499,8.692
+BRA,South America,Brazil,2021-06-06,290.3,7.711
+BRA,South America,Brazil,2021-06-12,314.126,9.235
+BRA,South America,Brazil,2021-06-18,339.632,9.587
+BRA,South America,Brazil,2021-06-24,363.497,8.829
+BRA,South America,Brazil,2021-06-30,260.27,7.364
+BRA,South America,Brazil,2021-07-06,229.657,7.33
+BRA,South America,Brazil,2021-07-12,211.343,6.13
+BRA,South America,Brazil,2021-07-18,192.641,5.865
+BRA,South America,Brazil,2021-07-24,220.5,5.499
+DEU,Europe,Germany,2020-01-06,NA,NA
+DEU,Europe,Germany,2020-01-30,NA,NA
+DEU,Europe,Germany,2020-02-05,0.014,0
+DEU,Europe,Germany,2020-02-11,0.007,0
+DEU,Europe,Germany,2020-02-17,0.003,0
+DEU,Europe,Germany,2020-02-23,0,0
+DEU,Europe,Germany,2020-02-29,0.107,0
+DEU,Europe,Germany,2020-03-06,1.061,0
+DEU,Europe,Germany,2020-03-12,2.721,0.005
+DEU,Europe,Germany,2020-03-18,17.765,0.043
+DEU,Europe,Germany,2020-03-24,40.46,0.227
+DEU,Europe,Germany,2020-03-30,64.501,0.89
+DEU,Europe,Germany,2020-04-05,64.84,1.792
+DEU,Europe,Germany,2020-04-11,49.133,2.203
+DEU,Europe,Germany,2020-04-17,32.782,2.703
+DEU,Europe,Germany,2020-04-23,26.311,2.597
+DEU,Europe,Germany,2020-04-29,18.57,2.026
+DEU,Europe,Germany,2020-05-05,12.097,1.158
+DEU,Europe,Germany,2020-05-11,10.953,1.139
+DEU,Europe,Germany,2020-05-17,7.656,0.67
+DEU,Europe,Germany,2020-05-23,7.219,0.551
+DEU,Europe,Germany,2020-05-29,5.477,0.471
+DEU,Europe,Germany,2020-06-04,3.881,0.281
+DEU,Europe,Germany,2020-06-10,4.094,0.256
+DEU,Europe,Germany,2020-06-16,2.977,0.143
+DEU,Europe,Germany,2020-06-22,6.967,0.157
+DEU,Europe,Germany,2020-06-28,5.833,0.124
+DEU,Europe,Germany,2020-07-04,4.672,0.089
+DEU,Europe,Germany,2020-07-10,4.351,0.09
+DEU,Europe,Germany,2020-07-16,4.176,0.051
+DEU,Europe,Germany,2020-07-22,5.773,0.038
+DEU,Europe,Germany,2020-07-28,6.803,0.055
+DEU,Europe,Germany,2020-08-03,8.524,0.049
+DEU,Europe,Germany,2020-08-09,10.346,0.082
+DEU,Europe,Germany,2020-08-15,12.933,0.058
+DEU,Europe,Germany,2020-08-21,15.751,0.061
+DEU,Europe,Germany,2020-08-27,15.821,0.046
+DEU,Europe,Germany,2020-09-02,14.324,0.063
+DEU,Europe,Germany,2020-09-08,15.247,0.049
+DEU,Europe,Germany,2020-09-14,16.362,0.043
+DEU,Europe,Germany,2020-09-20,20.85,0.061
+DEU,Europe,Germany,2020-09-26,20.621,0.121
+DEU,Europe,Germany,2020-10-02,25,0.114
+DEU,Europe,Germany,2020-10-08,34.787,0.145
+DEU,Europe,Germany,2020-10-14,56.864,0.228
+DEU,Europe,Germany,2020-10-20,82.315,0.341
+DEU,Europe,Germany,2020-10-26,124.794,0.425
+DEU,Europe,Germany,2020-11-01,181.842,0.769
+DEU,Europe,Germany,2020-11-07,232.441,1.403
+DEU,Europe,Germany,2020-11-13,223.536,1.985
+DEU,Europe,Germany,2020-11-19,219.43,2.466
+DEU,Europe,Germany,2020-11-25,218.922,3.103
+DEU,Europe,Germany,2020-12-01,224.192,3.998
+DEU,Europe,Germany,2020-12-07,221.819,4.672
+DEU,Europe,Germany,2020-12-13,266.434,5.315
+DEU,Europe,Germany,2020-12-19,293.982,7.282
+DEU,Europe,Germany,2020-12-25,248.764,6.524
+DEU,Europe,Germany,2020-12-31,221.529,7.606
+DEU,Europe,Germany,2021-01-06,170.634,7.852
+DEU,Europe,Germany,2021-01-12,262.173,10.455
+DEU,Europe,Germany,2021-01-18,201.651,9.316
+DEU,Europe,Germany,2021-01-24,166.483,9.199
+DEU,Europe,Germany,2021-01-30,148.716,8.921
+DEU,Europe,Germany,2021-02-05,117.612,8.59
+DEU,Europe,Germany,2021-02-11,94.953,6.121
+DEU,Europe,Germany,2021-02-17,87.073,5.218
+DEU,Europe,Germany,2021-02-23,89.511,5.04
+DEU,Europe,Germany,2021-03-01,95.603,3.668
+DEU,Europe,Germany,2021-03-07,99.508,3.124
+DEU,Europe,Germany,2021-03-13,115.455,2.418
+DEU,Europe,Germany,2021-03-19,162.728,2.148
+DEU,Europe,Germany,2021-03-25,179.629,2.16
+DEU,Europe,Germany,2021-03-31,205.726,1.884
+DEU,Europe,Germany,2021-04-06,155.625,1.46
+DEU,Europe,Germany,2021-04-12,208.521,2.83
+DEU,Europe,Germany,2021-04-18,244.445,2.646
+DEU,Europe,Germany,2021-04-24,233.574,2.795
+DEU,Europe,Germany,2021-04-30,219.091,2.737
+DEU,Europe,Germany,2021-05-06,190.342,2.66
+DEU,Europe,Germany,2021-05-12,135.96,2.234
+DEU,Europe,Germany,2021-05-18,98.88,2.193
+DEU,Europe,Germany,2021-05-24,88.101,1.833
+DEU,Europe,Germany,2021-05-30,51.242,1.708
+DEU,Europe,Germany,2021-06-05,37.958,1.39
+DEU,Europe,Germany,2021-06-11,27.496,1.141
+DEU,Europe,Germany,2021-06-17,15.433,0.996
+DEU,Europe,Germany,2021-06-23,9.671,0.742
+DEU,Europe,Germany,2021-06-29,6.982,0.563
+DEU,Europe,Germany,2021-07-05,6.875,0.413
+DEU,Europe,Germany,2021-07-11,8.972,0.344
+DEU,Europe,Germany,2021-07-17,13.792,0.222
+DEU,Europe,Germany,2021-07-23,17.642,0.251
+IND,Asia,India,2020-01-31,NA,NA
+IND,Asia,India,2020-02-06,0,0
+IND,Asia,India,2020-02-12,0,0
+IND,Asia,India,2020-02-18,0,0
+IND,Asia,India,2020-02-24,0,0
+IND,Asia,India,2020-03-01,0,0
+IND,Asia,India,2020-03-07,0.003,0
+IND,Asia,India,2020-03-13,0.005,0
+IND,Asia,India,2020-03-19,0.013,0
+IND,Asia,India,2020-03-25,0.052,0.001
+IND,Asia,India,2020-03-31,0.089,0.003
+IND,Asia,India,2020-04-06,0.365,0.011
+IND,Asia,India,2020-04-12,0.581,0.024
+IND,Asia,India,2020-04-18,0.753,0.024
+IND,Asia,India,2020-04-24,1.054,0.03
+IND,Asia,India,2020-04-30,1.22,0.045
+IND,Asia,India,2020-05-06,2.063,0.073
+IND,Asia,India,2020-05-12,2.577,0.075
+IND,Asia,India,2020-05-18,3.06,0.089
+IND,Asia,India,2020-05-24,4.435,0.103
+IND,Asia,India,2020-05-30,5.218,0.136
+IND,Asia,India,2020-06-05,6.49,0.173
+IND,Asia,India,2020-06-11,7.331,0.221
+IND,Asia,India,2020-06-17,8.317,0.428
+IND,Asia,India,2020-06-23,10.571,0.266
+IND,Asia,India,2020-06-29,13.108,0.298
+IND,Asia,India,2020-07-05,15.434,0.333
+IND,Asia,India,2020-07-11,18.256,0.352
+IND,Asia,India,2020-07-17,22.585,0.43
+IND,Asia,India,2020-07-23,29.428,0.517
+IND,Asia,India,2020-07-29,35.524,0.527
+IND,Asia,India,2020-08-04,38.984,0.58
+IND,Asia,India,2020-08-10,42.746,0.654
+IND,Asia,India,2020-08-16,44.781,0.676
+IND,Asia,India,2020-08-22,47.1,0.696
+IND,Asia,India,2020-08-28,50.545,0.699
+IND,Asia,India,2020-09-03,56.858,0.719
+IND,Asia,India,2020-09-09,63.401,0.796
+IND,Asia,India,2020-09-15,67.311,0.846
+IND,Asia,India,2020-09-21,65.468,0.845
+IND,Asia,India,2020-09-27,60.778,0.793
+IND,Asia,India,2020-10-03,57.644,0.754
+IND,Asia,India,2020-10-09,52.368,0.681
+IND,Asia,India,2020-10-15,48.066,0.587
+IND,Asia,India,2020-10-21,41.392,0.554
+IND,Asia,India,2020-10-27,35.115,0.424
+IND,Asia,India,2020-11-02,33.25,0.372
+IND,Asia,India,2020-11-08,33.576,0.414
+IND,Asia,India,2020-11-14,31.762,0.364
+IND,Asia,India,2020-11-20,28.687,0.366
+IND,Asia,India,2020-11-26,31.617,0.368
+IND,Asia,India,2020-12-02,27.77,0.355
+IND,Asia,India,2020-12-08,24.476,0.335
+IND,Asia,India,2020-12-14,20.952,0.285
+IND,Asia,India,2020-12-20,17.749,0.254
+IND,Asia,India,2020-12-26,16.214,0.222
+IND,Asia,India,2021-01-01,16.222,0.221
+IND,Asia,India,2021-01-07,13.117,0.163
+IND,Asia,India,2021-01-13,12.093,0.144
+IND,Asia,India,2021-01-19,10.403,0.123
+IND,Asia,India,2021-01-25,9.836,0.107
+IND,Asia,India,2021-01-31,9.304,0.095
+IND,Asia,India,2021-02-06,8.301,0.075
+IND,Asia,India,2021-02-12,8.12,0.065
+IND,Asia,India,2021-02-18,8.57,0.069
+IND,Asia,India,2021-02-24,10.012,0.072
+IND,Asia,India,2021-03-02,11.319,0.081
+IND,Asia,India,2021-03-08,12.449,0.071
+IND,Asia,India,2021-03-14,16.143,0.09
+IND,Asia,India,2021-03-20,24.853,0.119
+IND,Asia,India,2021-03-26,36.607,0.174
+IND,Asia,India,2021-04-01,47.254,0.253
+IND,Asia,India,2021-04-07,73.179,0.407
+IND,Asia,India,2021-04-13,110.977,0.612
+IND,Asia,India,2021-04-19,168.894,0.981
+IND,Asia,India,2021-04-25,233.059,1.693
+IND,Asia,India,2021-05-01,268.869,2.405
+IND,Asia,India,2021-05-07,282.37,2.735
+IND,Asia,India,2021-05-13,264.514,2.923
+IND,Asia,India,2021-05-19,214.158,2.982
+IND,Asia,India,2021-05-25,171.994,2.913
+IND,Asia,India,2021-05-31,126.932,2.553
+IND,Asia,India,2021-06-06,89.279,2.079
+IND,Asia,India,2021-06-12,65.284,2.446
+IND,Asia,India,2021-06-18,48.073,1.869
+IND,Asia,India,2021-06-24,38.473,1.017
+IND,Asia,India,2021-06-30,34.043,0.774
+IND,Asia,India,2021-07-06,31.14,0.596
+IND,Asia,India,2021-07-12,29.746,0.777
+IND,Asia,India,2021-07-18,27.935,0.553
+IND,Asia,India,2021-07-24,27.519,0.719
+RUS,Europe,Russia,2020-02-02,NA,NA
+RUS,Europe,Russia,2020-02-08,0,0
+RUS,Europe,Russia,2020-02-14,0,0
+RUS,Europe,Russia,2020-02-20,0,0
+RUS,Europe,Russia,2020-02-26,0,0
+RUS,Europe,Russia,2020-03-03,0.001,0
+RUS,Europe,Russia,2020-03-09,0.014,0
+RUS,Europe,Russia,2020-03-15,0.045,0
+RUS,Europe,Russia,2020-03-21,0.242,0.001
+RUS,Europe,Russia,2020-03-27,0.766,0.003
+RUS,Europe,Russia,2020-04-02,2.651,0.026
+RUS,Europe,Russia,2020-04-08,5.771,0.038
+RUS,Europe,Russia,2020-04-14,13.318,0.11
+RUS,Europe,Russia,2020-04-20,28.186,0.252
+RUS,Europe,Russia,2020-04-26,37.293,0.378
+RUS,Europe,Russia,2020-05-02,48.423,0.53
+RUS,Europe,Russia,2020-05-08,71.88,0.542
+RUS,Europe,Russia,2020-05-14,73.502,0.666
+RUS,Europe,Russia,2020-05-20,65.033,0.744
+RUS,Europe,Russia,2020-05-26,61.085,0.95
+RUS,Europe,Russia,2020-06-01,59.617,1.19
+RUS,Europe,Russia,2020-06-07,59.939,1.134
+RUS,Europe,Russia,2020-06-13,60.062,1.079
+RUS,Europe,Russia,2020-06-19,56.318,1.102
+RUS,Europe,Russia,2020-06-25,51.713,0.924
+RUS,Europe,Russia,2020-07-01,46.436,0.997
+RUS,Europe,Russia,2020-07-07,45.31,1.147
+RUS,Europe,Russia,2020-07-13,44.731,1.118
+RUS,Europe,Russia,2020-07-19,43.341,0.984
+RUS,Europe,Russia,2020-07-25,40.25,0.924
+RUS,Europe,Russia,2020-07-31,38.14,0.894
+RUS,Europe,Russia,2020-08-06,36.41,0.784
+RUS,Europe,Russia,2020-08-12,35.042,0.75
+RUS,Europe,Russia,2020-08-18,33.856,0.718
+RUS,Europe,Russia,2020-08-24,32.752,0.684
+RUS,Europe,Russia,2020-08-30,32.443,0.689
+RUS,Europe,Russia,2020-09-05,33.829,0.715
+RUS,Europe,Russia,2020-09-11,35.505,0.696
+RUS,Europe,Russia,2020-09-17,37.508,0.772
+RUS,Europe,Russia,2020-09-23,41.116,0.849
+RUS,Europe,Russia,2020-09-29,50.19,0.862
+RUS,Europe,Russia,2020-10-05,64.116,1.053
+RUS,Europe,Russia,2020-10-11,80.905,1.185
+RUS,Europe,Russia,2020-10-17,95.713,1.494
+RUS,Europe,Russia,2020-10-23,107.37,1.736
+RUS,Europe,Russia,2020-10-29,114.066,1.996
+RUS,Europe,Russia,2020-11-04,124.861,2.197
+RUS,Europe,Russia,2020-11-10,138.679,2.24
+RUS,Europe,Russia,2020-11-16,147.536,2.582
+RUS,Europe,Russia,2020-11-22,158.299,2.891
+RUS,Europe,Russia,2020-11-28,172.227,3.166
+RUS,Europe,Russia,2020-12-04,181.413,3.48
+RUS,Europe,Russia,2020-12-10,187.148,3.52
+RUS,Europe,Russia,2020-12-16,186.374,3.694
+RUS,Europe,Russia,2020-12-22,191.393,3.783
+RUS,Europe,Russia,2020-12-28,193.133,3.755
+RUS,Europe,Russia,2021-01-03,179.896,3.573
+RUS,Europe,Russia,2021-01-09,160.813,3.219
+RUS,Europe,Russia,2021-01-15,158.944,3.417
+RUS,Europe,Russia,2021-01-21,154.123,3.714
+RUS,Europe,Russia,2021-01-27,135.634,3.678
+RUS,Europe,Russia,2021-02-02,123.262,3.515
+RUS,Europe,Russia,2021-02-08,111.031,3.301
+RUS,Europe,Russia,2021-02-14,100.872,3.323
+RUS,Europe,Russia,2021-02-20,90.927,3.048
+RUS,Europe,Russia,2021-02-26,81.356,2.792
+RUS,Europe,Russia,2021-03-04,75.541,2.826
+RUS,Europe,Russia,2021-03-10,70.5,2.811
+RUS,Europe,Russia,2021-03-16,64.885,3.015
+RUS,Europe,Russia,2021-03-22,64.117,2.794
+RUS,Europe,Russia,2021-03-28,60.982,2.61
+RUS,Europe,Russia,2021-04-03,59.255,2.517
+RUS,Europe,Russia,2021-04-09,58.813,2.514
+RUS,Europe,Russia,2021-04-15,58.185,2.456
+RUS,Europe,Russia,2021-04-21,58.787,2.606
+RUS,Europe,Russia,2021-04-27,58.44,2.567
+RUS,Europe,Russia,2021-05-03,58.268,2.504
+RUS,Europe,Russia,2021-05-09,54.961,2.363
+RUS,Europe,Russia,2021-05-15,57.733,2.392
+RUS,Europe,Russia,2021-05-21,58.809,2.528
+RUS,Europe,Russia,2021-05-27,58.173,2.542
+RUS,Europe,Russia,2021-06-02,61.83,2.567
+RUS,Europe,Russia,2021-06-08,62.166,2.525
+RUS,Europe,Russia,2021-06-14,83.703,2.588
+RUS,Europe,Russia,2021-06-20,104.465,2.831
+RUS,Europe,Russia,2021-06-26,126.74,3.64
+RUS,Europe,Russia,2021-07-02,146.355,4.34
+RUS,Europe,Russia,2021-07-08,162.675,4.707
+RUS,Europe,Russia,2021-07-14,167.396,5.05
+RUS,Europe,Russia,2021-07-20,166.135,5.242
+RUS,Europe,Russia,2021-07-26,159.761,5.269
+USA,North America,United States,2020-01-23,NA,NA
+USA,North America,United States,2020-01-29,0.002,0
+USA,North America,United States,2020-02-04,0.003,0
+USA,North America,United States,2020-02-10,0,0
+USA,North America,United States,2020-02-16,0.001,0
+USA,North America,United States,2020-02-22,0.001,0
+USA,North America,United States,2020-02-28,0,0
+USA,North America,United States,2020-03-05,0.072,0.005
+USA,North America,United States,2020-03-11,0.449,0.009
+USA,North America,United States,2020-03-17,2.473,0.046
+USA,North America,United States,2020-03-23,17.892,0.3
+USA,North America,United States,2020-03-29,47.049,1.28
+USA,North America,United States,2020-04-04,84.803,3.535
+USA,North America,United States,2020-04-10,97.552,6.087
+USA,North America,United States,2020-04-16,87.142,6.665
+USA,North America,United States,2020-04-22,87.049,6.653
+USA,North America,United States,2020-04-28,86.321,6.019
+USA,North America,United States,2020-05-04,82.383,5.623
+USA,North America,United States,2020-05-10,73.977,5.198
+USA,North America,United States,2020-05-16,67.823,4.311
+USA,North America,United States,2020-05-22,68.206,3.721
+USA,North America,United States,2020-05-28,62.158,2.92
+USA,North America,United States,2020-06-03,63.955,2.825
+USA,North America,United States,2020-06-09,61.28,2.336
+USA,North America,United States,2020-06-15,65.372,2.123
+USA,North America,United States,2020-06-21,81.172,1.788
+USA,North America,United States,2020-06-27,111.306,1.676
+USA,North America,United States,2020-07-03,142.247,1.659
+USA,North America,United States,2020-07-09,161.495,2.023
+USA,North America,United States,2020-07-15,191.659,2.321
+USA,North America,United States,2020-07-21,201.013,2.523
+USA,North America,United States,2020-07-27,195.664,3.051
+USA,North America,United States,2020-08-02,186.885,3.394
+USA,North America,United States,2020-08-08,162.75,3.148
+USA,North America,United States,2020-08-14,158.913,3.088
+USA,North America,United States,2020-08-20,140.07,3.069
+USA,North America,United States,2020-08-26,126.112,2.807
+USA,North America,United States,2020-09-01,125.922,2.665
+USA,North America,United States,2020-09-07,118.897,2.429
+USA,North America,United States,2020-09-13,105.388,2.22
+USA,North America,United States,2020-09-19,122.542,2.371
+USA,North America,United States,2020-09-25,132.437,2.309
+USA,North America,United States,2020-10-01,126.119,2.187
+USA,North America,United States,2020-10-07,138.383,2.099
+USA,North America,United States,2020-10-13,155.794,2.247
+USA,North America,United States,2020-10-19,181.215,2.29
+USA,North America,United States,2020-10-25,214.149,2.503
+USA,North America,United States,2020-10-31,244.2,2.583
+USA,North America,United States,2020-11-06,331.894,3.055
+USA,North America,United States,2020-11-12,407.054,3.334
+USA,North America,United States,2020-11-18,496.009,3.883
+USA,North America,United States,2020-11-24,534.786,5.102
+USA,North America,United States,2020-11-30,490.163,4.783
+USA,North America,United States,2020-12-06,606.246,6.934
+USA,North America,United States,2020-12-12,652.596,7.615
+USA,North America,United States,2020-12-18,667.863,8.198
+USA,North America,United States,2020-12-24,626.9,8.197
+USA,North America,United States,2020-12-30,553.538,7.376
+USA,North America,United States,2021-01-05,669.645,8.266
+USA,North America,United States,2021-01-11,756.713,9.972
+USA,North America,United States,2021-01-17,660.447,10.25
+USA,North America,United States,2021-01-23,533.609,9.479
+USA,North America,United States,2021-01-29,470.708,9.855
+USA,North America,United States,2021-02-04,395.853,9.249
+USA,North America,United States,2021-02-10,316.486,8.417
+USA,North America,United States,2021-02-16,245.926,6.702
+USA,North America,United States,2021-02-22,201.482,5.899
+USA,North America,United States,2021-02-28,204.607,5.997
+USA,North America,United States,2021-03-06,184.091,5.293
+USA,North America,United States,2021-03-12,165.64,4.068
+USA,North America,United States,2021-03-18,165.31,3.436
+USA,North America,United States,2021-03-24,174.116,3.067
+USA,North America,United States,2021-03-30,202.255,3.008
+USA,North America,United States,2021-04-05,195.509,2.393
+USA,North America,United States,2021-04-11,211.003,2.975
+USA,North America,United States,2021-04-17,205.809,2.18
+USA,North America,United States,2021-04-23,179.649,2.15
+USA,North America,United States,2021-04-29,155.313,2.076
+USA,North America,United States,2021-05-05,141.079,2.093
+USA,North America,United States,2021-05-11,114.782,1.869
+USA,North America,United States,2021-05-17,96.752,1.748
+USA,North America,United States,2021-05-23,76.188,1.653
+USA,North America,United States,2021-05-29,63.317,1.948
+USA,North America,United States,2021-06-04,43.287,1.284
+USA,North America,United States,2021-06-10,42.232,1.133
+USA,North America,United States,2021-06-16,38.286,1.023
+USA,North America,United States,2021-06-22,34.137,0.918
+USA,North America,United States,2021-06-28,37.215,0.832
+USA,North America,United States,2021-07-04,39.854,0.696
+USA,North America,United States,2021-07-10,57.712,0.698
+USA,North America,United States,2021-07-16,93.312,0.764
+USA,North America,United States,2021-07-22,132.17,0.751
+USA,North America,United States,2021-07-28,192.439,0.92
