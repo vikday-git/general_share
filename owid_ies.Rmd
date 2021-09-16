@@ -1,0 +1,96 @@
+---
+title: "Covid cases"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+## Introduction
+
+Our objective is to see how to create a document using R.
+
+The document will combine:
+- text
+- code
+- R output
+
+The document will be in html, so we can use both as a text document and for presentation. 
+
+Specialized formats are also available, but this is a flexible method. 
+
+##
+
+Types of commonly used files
+
+- .csv for data
+- .R for R script, writing commands that can be clicked
+- .Rmd (R notebook) (will produce html)
+- .html (can be viewed in a web browser like Google chrome)
+
+## Data
+
+```{r}
+owid_ies <- read.csv("~/Documents/R/math_R/owid_ies.csv")
+```
+
+
+Data is from the Our World in Data website, publicly available and easily *downloadable*. 
+
+We look at the structure of the data with str(). 
+
+```{r}
+str(owid_ies)
+```
+
+We change location variable to a factor. 
+
+```{r}
+owid_ies$location <- factor(owid_ies$location)
+str(owid_ies$location)
+```
+
+We load packages. 
+```{r}
+library(ggplot2) # for plotting
+library(dplyr) # for working with data
+library(scales) # for working with scales
+library(lubridate) # for dates
+library(ggthemes) # for themes of graph
+```
+
+We work with dates.
+
+```{r}
+owid_ies$date <- ymd(owid_ies$date)
+datebreaks <- seq(as.Date("2020-01-01"),
+                  as.Date("2021-07-01"),
+                  by = "6 month")
+```
+
+We plot the figure.
+
+```{r fig.height = 4, fig.width = 4}
+
+
+gg3 <- 
+  ggplot(owid_ies, aes(x = date,
+            y = new_cases_smoothed_per_million,
+            group = location)) +
+  geom_line() + 
+  facet_wrap(~location, scales = "free_y",
+             ncol = 2) +
+  scale_x_date(breaks = datebreaks,
+               labels = date_format("%Y %b")) +
+    theme(axis.text.x = element_text(
+      angle = 30)) +
+  xlab("") +
+  ggtitle("COVID-19 cases") +
+  theme_fivethirtyeight(base_size = 9)
+library(plotly)
+ggplotly(gg3)
+```
+
+## Discussion
+
+Different countries experienced COVID-19 in waves.
